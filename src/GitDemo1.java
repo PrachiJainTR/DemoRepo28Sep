@@ -6,6 +6,7 @@ public class GitDemo1 {
 		System.out.println("V1");
 		System.out.println("V2");
 		System.out.println("V3");
+		System.out.println("*V4*");
 	}
 
 }
